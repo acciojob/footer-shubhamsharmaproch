@@ -10,7 +10,7 @@ body {
 	display:flex;
 	border:1px solid black;
 }
-div .media-icons {
+.media-icons a{
 	display:flex;
 }
 .logo_name {
