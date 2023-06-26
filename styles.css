@@ -10,8 +10,8 @@ body {
 	display:flex;
 	border:1px solid black;
 }
-.media-icons {
-	 transform: translate(50%);
+div .media-icons {
+	display:flex;
 }
 .logo_name {
 	font-size:35px;
