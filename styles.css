@@ -10,8 +10,11 @@ body {
 	display:flex;
 	border:1px solid black;
 }
-.media-icons a{
+div .media-icons {
 	display:flex;
+}
+.media-icons a{
+	display:inline-block;
 }
 .logo_name {
 	font-size:35px;
