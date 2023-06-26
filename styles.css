@@ -1,1 +1,47 @@
-/* your code here */
+img {
+	width:90px;
+	height:50px;
+}
+body {
+	background-color:black;
+	color:white;
+}
+.top {
+	display:flex;
+	border:1px solid black;
+}
+.media-icons {
+	 transform: translate(50%);
+}
+.logo_name {
+	font-size:35px;
+}
+a {
+	text-decoration:none;
+}
+.link-boxes {
+	display:flex;
+	gap:0px;
+	font-size:20px;
+}
+.footer__section li {
+	list-style:none;
+	
+}
+.footer__section a{
+color:lightgray;
+	
+}
+.bottom-details {
+	border:1px solid black;
+	padding:10px;
+	background-color:#2C303A;
+	color:lightgray;
+}
+.text {
+display:flex;
+	gap:250px;
+
+}
+
+
